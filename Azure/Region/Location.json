@@ -1,0 +1,147 @@
+[
+	{
+		"regionID": "southafricanorth",
+		"displayName": "(Africa) South Africa North",
+		"location": "Johannesburg, South Africa"
+	},
+	{
+		"regionID": "australiacentral",
+		"displayName": "(Asia Pacific) Australia Central",
+		"location": "Canberra, Australia"
+	},
+	{
+		"regionID": "australiacentral2",
+		"displayName": "(Asia Pacific) Australia Central 2",
+		"location": "Canberra, Australia"
+	},
+	{
+		"regionID": "australiaeast",
+		"displayName": "(Asia Pacific) Australia East",
+		"location": "New South Wales, Australia"
+	},
+	{
+		"regionID": "australiasoutheast",
+		"displayName": "(Asia Pacific) Australia Southeast",
+		"location": "Victoria, Australia"
+	},
+	{
+		"regionID": "centralindia",
+		"displayName": "(Asia Pacific) Central India",
+		"location": "Pune, India"
+	},
+	{
+		"regionID": "eastasia",
+		"displayName": "(Asia Pacific) East Asia",
+		"location": "Hong Kong, China"
+	},
+	{
+		"regionID": "japaneast",
+		"displayName": "(Asia Pacific) Japan East",
+		"location": "Tokyo, Japan"
+	},
+	{
+		"regionID": "koreacentral",
+		"displayName": "(Asia Pacific) Korea Central",
+		"location": "Seoul, Korea"
+	},
+	{
+		"regionID": "asiasoutheast",
+		"displayName": "(Asia) Southeast Asia",
+		"location": "Singapore"
+	},
+	{
+		"regionID": "canadacentral",
+		"displayName": "(Canada) Canada Central",
+		"location": "Toronto, Canada"
+	},
+	{
+		"regionID": "canadaeast",
+		"displayName": "(Canada) Canada East",
+		"location": "Quebec, Canada"
+	},
+	{
+		"regionID": "europenorth",
+		"displayName": "(Europe) Europe North",
+		"location": "Ireland"
+	},
+	{
+		"regionID": "europewest",
+		"displayName": "(Europe) Europe West",
+		"location": "Netherlands"
+	},
+	{
+		"regionID": "uksouth",
+		"displayName": "(Europe) UK South",
+		"location": "London, United Kindom"
+	},
+	{
+		"regionID": "ukwest",
+		"displayName": "(Europe) UK West",
+		"location": "London, United Kindom"
+	},
+	{
+		"regionID": "uaecentral",
+		"displayName": "(Middle East) UAE Central",
+		"location": "Abu Dhabi"
+	},
+	{
+		"regionID": "brazilsouth",
+		"displayName": "(South America) Brazil South",
+		"location": "Sao Paulo State, Brazil"
+	},
+	{
+		"regionID": "uscentral",
+		"displayName": "(US) Central US",
+		"location": "Iowa, USA"
+	},
+	{
+		"regionID": "uscentraleuap",
+		"displayName": "(US) Central US EUAP",
+		"location": "Iowa, USA"
+	},
+	{
+		"regionID": "useast",
+		"displayName": "(US) East US",
+		"location": "Virginia, USA"
+	},
+	{
+		"regionID": "useast2",
+		"displayName": "(US) East US 2",
+		"location": "Virginia, USA"
+	},
+	{
+		"regionID": "useast2euap",
+		"displayName": "(US) East US 2 EUAP",
+		"location": "Virginia, USA"
+	},
+	{
+		"regionID": "usnorth",
+		"displayName": "(US) North US",
+		"location": "Illinois, USA"
+	},
+	{
+		"regionID": "ussouth",
+		"displayName": "(US) South US",
+		"location": "Texas, USA"
+	},
+	{
+		"regionID": "usgo",
+		"displayName": "(US) US GO",
+		"location": "Nebraska, USA"
+	},
+	{
+		"regionID": "uswest",
+		"displayName": "(US) West US",
+		"location": "California, USA"
+	},
+	{
+		"regionID": "uswest2",
+		"displayName": "(US) West US 2",
+		"location": "Washington, USA"
+	},
+	{
+		"regionID": "uswest3",
+		"displayName": "(US) West US 3",
+		"location": "Phoenix, USA"
+	}
+]

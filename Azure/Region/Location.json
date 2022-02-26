@@ -1,26 +1,26 @@
 [
 	{
-		"regionID": "southafricanorth",
+		"regionID": "northsouthafrica",
 		"displayName": "(Africa) South Africa North",
 		"location": "Johannesburg, South Africa"
 	},
 	{
-		"regionID": "australiacentral",
+		"regionID": "centralaustralia",
 		"displayName": "(Asia Pacific) Australia Central",
 		"location": "Canberra, Australia"
 	},
 	{
-		"regionID": "australiacentral2",
+		"regionID": "centralaustralia2",
 		"displayName": "(Asia Pacific) Australia Central 2",
 		"location": "Canberra, Australia"
 	},
 	{
-		"regionID": "australiaeast",
+		"regionID": "eastaustralia",
 		"displayName": "(Asia Pacific) Australia East",
 		"location": "New South Wales, Australia"
 	},
 	{
-		"regionID": "australiasoutheast",
+		"regionID": "southeastaustralia",
 		"displayName": "(Asia Pacific) Australia Southeast",
 		"location": "Victoria, Australia"
 	},
@@ -35,92 +35,92 @@
 		"location": "Hong Kong, China"
 	},
 	{
-		"regionID": "japaneast",
+		"regionID": "eastjapan",
 		"displayName": "(Asia Pacific) Japan East",
 		"location": "Tokyo, Japan"
 	},
 	{
-		"regionID": "koreacentral",
+		"regionID": "centralkorea",
 		"displayName": "(Asia Pacific) Korea Central",
 		"location": "Seoul, Korea"
 	},
 	{
-		"regionID": "asiasoutheast",
+		"regionID": "southeastasia",
 		"displayName": "(Asia) Southeast Asia",
 		"location": "Singapore"
 	},
 	{
-		"regionID": "canadacentral",
+		"regionID": "centralcanada",
 		"displayName": "(Canada) Canada Central",
 		"location": "Toronto, Canada"
 	},
 	{
-		"regionID": "canadaeast",
+		"regionID": "eastcanada",
 		"displayName": "(Canada) Canada East",
 		"location": "Quebec, Canada"
 	},
 	{
-		"regionID": "europenorth",
+		"regionID": "northeurope",
 		"displayName": "(Europe) Europe North",
 		"location": "Ireland"
 	},
 	{
-		"regionID": "europewest",
+		"regionID": "westeurope",
 		"displayName": "(Europe) Europe West",
 		"location": "Netherlands"
 	},
 	{
-		"regionID": "uksouth",
+		"regionID": "southuk",
 		"displayName": "(Europe) UK South",
 		"location": "London, United Kindom"
 	},
 	{
-		"regionID": "ukwest",
+		"regionID": "westuk",
 		"displayName": "(Europe) UK West",
 		"location": "London, United Kindom"
 	},
 	{
-		"regionID": "uaecentral",
+		"regionID": "centraluae",
 		"displayName": "(Middle East) UAE Central",
 		"location": "Abu Dhabi"
 	},
 	{
-		"regionID": "brazilsouth",
+		"regionID": "southbrazil",
 		"displayName": "(South America) Brazil South",
 		"location": "Sao Paulo State, Brazil"
 	},
 	{
-		"regionID": "uscentral",
+		"regionID": "centralus",
 		"displayName": "(US) Central US",
 		"location": "Iowa, USA"
 	},
 	{
-		"regionID": "uscentraleuap",
+		"regionID": "centraluseuap",
 		"displayName": "(US) Central US EUAP",
 		"location": "Iowa, USA"
 	},
 	{
-		"regionID": "useast",
+		"regionID": "eastus",
 		"displayName": "(US) East US",
 		"location": "Virginia, USA"
 	},
 	{
-		"regionID": "useast2",
+		"regionID": "eastus2",
 		"displayName": "(US) East US 2",
 		"location": "Virginia, USA"
 	},
 	{
-		"regionID": "useast2euap",
+		"regionID": "eastus2euap",
 		"displayName": "(US) East US 2 EUAP",
 		"location": "Virginia, USA"
 	},
 	{
-		"regionID": "usnorth",
+		"regionID": "northus",
 		"displayName": "(US) North US",
 		"location": "Illinois, USA"
 	},
 	{
-		"regionID": "ussouth",
+		"regionID": "southus",
 		"displayName": "(US) South US",
 		"location": "Texas, USA"
 	},
@@ -130,17 +130,17 @@
 		"location": "Nebraska, USA"
 	},
 	{
-		"regionID": "uswest",
+		"regionID": "westus",
 		"displayName": "(US) West US",
 		"location": "California, USA"
 	},
 	{
-		"regionID": "uswest2",
+		"regionID": "westus2",
 		"displayName": "(US) West US 2",
 		"location": "Washington, USA"
 	},
 	{
-		"regionID": "uswest3",
+		"regionID": "westus3",
 		"displayName": "(US) West US 3",
 		"location": "Phoenix, USA"
 	}

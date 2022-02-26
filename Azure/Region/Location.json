@@ -15,12 +15,12 @@
 		"location": "Canberra, Australia"
 	},
 	{
-		"regionID": "eastaustralia",
+		"regionID": "australiaeast",
 		"displayName": "(Asia Pacific) Australia East",
 		"location": "New South Wales, Australia"
 	},
 	{
-		"regionID": "southeastaustralia",
+		"regionID": "australiasoutheast",
 		"displayName": "(Asia Pacific) Australia Southeast",
 		"location": "Victoria, Australia"
 	},
@@ -50,12 +50,12 @@
 		"location": "Singapore"
 	},
 	{
-		"regionID": "centralcanada",
+		"regionID": "canadacentral",
 		"displayName": "(Canada) Canada Central",
 		"location": "Toronto, Canada"
 	},
 	{
-		"regionID": "eastcanada",
+		"regionID": "canadaeast",
 		"displayName": "(Canada) Canada East",
 		"location": "Quebec, Canada"
 	},
@@ -70,12 +70,12 @@
 		"location": "Netherlands"
 	},
 	{
-		"regionID": "southuk",
+		"regionID": "uksouth",
 		"displayName": "(Europe) UK South",
 		"location": "London, United Kindom"
 	},
 	{
-		"regionID": "westuk",
+		"regionID": "ukwest",
 		"displayName": "(Europe) UK West",
 		"location": "London, United Kindom"
 	},
@@ -115,9 +115,19 @@
 		"location": "Virginia, USA"
 	},
 	{
+		"regionID": "northcentralus",
+		"displayName": "(US) North Central US",
+		"location": "Illinois, USA"
+	},
+	{
 		"regionID": "northus",
 		"displayName": "(US) North US",
 		"location": "Illinois, USA"
+	},
+	{
+		"regionID": "southcentralus",
+		"displayName": "(US) South Central US",
+		"location": "Texas, USA"
 	},
 	{
 		"regionID": "southus",

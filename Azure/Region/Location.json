@@ -35,7 +35,7 @@
 		"location": "Hong Kong, China"
 	},
 	{
-		"regionID": "eastjapan",
+		"regionID": "japaneast",
 		"displayName": "(Asia Pacific) Japan East",
 		"location": "Tokyo, Japan"
 	},
@@ -68,6 +68,11 @@
 		"regionID": "westeurope",
 		"displayName": "(Europe) Europe West",
 		"location": "Netherlands"
+	},
+	{
+		"regionID": "switzerlandnorth",
+		"displayName": "(Europe) Switzerland North",
+		"location": "Switzerland"
 	},
 	{
 		"regionID": "uksouth",
